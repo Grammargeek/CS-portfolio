@@ -5,7 +5,7 @@
 #navbar li {
         display: inline-block;
         /*float: left;*/
-        border: 2px dotted lightseagreen;
+        border: 2px dotted navy;
 }
 
 #navbar a {
