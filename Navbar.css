@@ -1,0 +1,28 @@
+#navbar {
+        /*text-align:center;*/
+}
+
+#navbar li {
+        display: inline-block;
+        /*float: left;*/
+        border: 2px dotted lightseagreen;
+}
+
+#navbar a {
+        width: 100px;
+}
+
+#navbar a:hover {
+        background-color: #00B2B2;
+}
+
+#navbar ul {
+        list-style-type: none;
+        /*margin: 0;*/
+        /*padding: 5px;*/
+        /*overflow: hidden;*/
+}
+#navbar li:hover{
+        
+}
+
